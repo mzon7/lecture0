@@ -1,0 +1,26 @@
+h1 {
+    color:blue;
+    text-align:center;
+}
+
+p{
+    color:red;
+}
+
+div{
+    background-color: teal;
+    width: 500px;
+    height:400px;
+    margin:30px;
+    padding:20px;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    border: 3px solid blue;
+}
+#top{
+    font-size: 36pt;
+}
+.name{
+    color: red;
+}
